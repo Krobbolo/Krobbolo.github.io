@@ -1,13 +1,20 @@
 table,tr,th{ 
     border: 1px solid black;
 }
+
+table{
+    width: 100%
+}
+
 th {
     background-color: yellow;
     font-size: 10px;
 }
+
 sup{
     color:red;
 }
+
 sub{
     color:grey;
     font-size: 8px;
