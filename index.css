@@ -1,6 +1,7 @@
 table,tr,th{ 
     border: 1px solid black;
-    width: 125;
+    width: 125%;
+    height: 125px;
 }
 table{
     width: 50%
