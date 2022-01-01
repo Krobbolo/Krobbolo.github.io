@@ -1,14 +1,13 @@
 table,tr,th{ 
     border: 1px solid black;
-    width: 25px;
-    height: 25px;
+
 }
 table{
     width: 50%
 }
 th {
     background-color: yellow;
-    font-size: 15px;
+    font-size: 10px;
 }
 sup{
     color:red;
