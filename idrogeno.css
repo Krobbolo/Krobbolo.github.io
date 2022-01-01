@@ -1,0 +1,17 @@
+@keyframes orbita {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.particella {
+    transform-origin: center;
+}
+
+.elettrone {
+    animation: orbita 9s infinite linear;
+}
+
+.protone {
+    animation: orbita 9s infinite linear;
+}
