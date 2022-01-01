@@ -8,10 +8,6 @@
     transform-origin: center;
 }
 
-.elettrone {
-    animation: orbita 9s infinite linear;
-}
-
 .protone {
     animation: orbita 0.25s infinite linear;
 }
