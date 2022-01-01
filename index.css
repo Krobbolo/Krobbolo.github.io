@@ -1,0 +1,21 @@
+table,tr,th{ 
+    border: 1px solid black;
+}
+table{
+    width: 50%
+}
+th {
+    background-color: yellow;
+    font-size: 15px;
+}
+sup{
+    color:red;
+}
+sub{
+    color:grey;
+    font-size: 9px;
+}
+
+a {
+    color:black;
+}
