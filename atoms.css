@@ -13,5 +13,9 @@
 }
 
 .protone {
-    animation: orbita 1s infinite linear;
+    animation: orbita 0.5s infinite linear;
+}
+
+.neutrone {
+    animation: orbita 13s infinite linear;
 }
