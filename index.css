@@ -20,18 +20,18 @@ a {
 th {
     font-size: 10px;
 }
-.nonmetallo{
+th.nonmetallo{
     background-color: yellow;
 }
-.gasnobile{
+th.gasnobile{
     background-color: red;
 }
-.alkalinometal{
+th.alkalinometal{
     background-color: palevioletred;
 }
-.alkalinoearth{
+th.alkalinoearth{
     background-color: rebeccapurple;
 }
-.transitionmetal{
+th.transitionmetal{
     background-color: royalblue;
 }
