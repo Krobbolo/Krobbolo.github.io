@@ -7,10 +7,10 @@ aside {
 }
 
 article {
-        width: 400px;
-        position: relative;
-        top: -400px;
-        right: -440px;
+    width: 400px;
+    position: relative;
+    top: -400px;
+    right: -440px;
 }
 
 @keyframes orbita {
