@@ -10,8 +10,9 @@ article {
     width: 400px;
     border-radius: 5%;
     border: 3px solid black;
-    position: fixed;
-    right: 100px;
+    position: relative;
+    top: 100px;
+    right: 400px;
 }
 
 @keyframes orbita {
