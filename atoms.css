@@ -15,6 +15,9 @@ div {
     transform-origin: center;
 }
 .elettrone{
+    stroke: black;
+     stroke-width: 3;
+      fill: blue;
     animation: orbita 5s infinite linear;
 }
 .protone {
