@@ -1,5 +1,5 @@
 aside {
-    width: 200px;
+    width: 400px;
     height: 400px;
     background-color: azure;
     border-radius: 5%;
@@ -10,6 +10,9 @@ article {
     width: 400px;
     border-radius: 5%;
     border: 3px solid black;
+    position: fixed;
+    right: 400px;
+    top: 400px;
 }
 
 @keyframes orbita {
