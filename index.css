@@ -38,3 +38,9 @@ th.transitionmetal{
 th.basicmetal{
     background-color: aqua;
 }
+th.semimetal{
+    background-color: lightgreen;
+}
+th.halogen{
+    background-color: darkorange;
+}
