@@ -24,5 +24,8 @@ div {
     animation: orbita 10s infinite linear;
 }
 .neutrone {
+    stroke: black; 
+    stroke-width: 3; 
+    fill: grey;
     animation: orbita 8s infinite linear;
 }
