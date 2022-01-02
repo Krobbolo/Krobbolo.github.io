@@ -5,9 +5,7 @@ table,tr,th{
 table{
     width: 60%;
 }
-th {
-    font-size: 10px;
-}
+
 sup{
     color:red;
 }
@@ -19,15 +17,17 @@ a {
     color:black;
 }
 
-th.nonmetallo{
+th {
+    font-size: 10px;
+}
+.nonmetallo{
     background-color: yellow;
 }
-th.gasnobile{
+.gasnobile{
     background-color: red;
-}
-th.alkalinometal{
+}h.alkalinometal{
     background-color: palevioletred;
 }
-th.alkalinoeath{
+.alkalinoeath{
     background-color: rebeccapurple;
 }
