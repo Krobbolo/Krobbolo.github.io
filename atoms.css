@@ -12,7 +12,7 @@ article {
     border: 3px solid black;
     position: relative;
     height: 100px;
-    right: 400px;
+    right: 100px;
 }
 
 @keyframes orbita {
