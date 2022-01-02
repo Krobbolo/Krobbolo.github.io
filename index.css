@@ -19,12 +19,15 @@ a {
     color:black;
 }
 
-.nonmetallo{
+th.nonmetallo{
     background-color: yellow;
 }
-.gasnobile{
+th.gasnobile{
     background-color: red;
 }
-.alkalino{
+th.alkalinometal{
     background-color: palevioletred;
+}
+th.alkalinoeath{
+    background-color: rebeccapurple;
 }
