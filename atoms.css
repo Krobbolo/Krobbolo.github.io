@@ -11,8 +11,8 @@ article {
     border-radius: 5%;
     border: 3px solid black;
     position: fixed;
-    right: 400px;
-    top: 400px;
+    right: 100px;
+    top:800px;
 }
 
 @keyframes orbita {
