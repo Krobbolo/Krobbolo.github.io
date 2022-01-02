@@ -2,24 +2,29 @@ table,tr,th{
     border: 1px solid black;
     border-collapse: collapse;
 }
-
 table{
     width: 60%;
 }
-
 th {
     font-size: 10px;
 }
-
 sup{
     color:red;
 }
-
 sub{
     color:grey;
     font-size: 8px;
 }
-
 a {
     color:black;
+}
+
+.nonmetallo{
+    background-color: yellow;
+}
+.gasnobile{
+    background-color: red;
+}
+.alkalino{
+    background-color: palevioletred;
 }
