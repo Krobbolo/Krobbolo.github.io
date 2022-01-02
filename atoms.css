@@ -18,6 +18,9 @@ div {
     animation: orbita 5s infinite linear;
 }
 .protone {
+    stroke:black;
+    stroke-width: 3;
+    fill:red;
     animation: orbita 10s infinite linear;
 }
 .neutrone {
