@@ -1,28 +1,33 @@
 aside {
-    width: 400px;
+    width: 200px;
     height: 400px;
     background-color: azure;
     border-radius: 5%;
     border: 3px solid black;
 }
-.orbita{
-    stroke: black;
-    stroke-width: 3;
-    fill: azure;
+
+article {
+    width: 400px;
+    border-radius: 5%;
+    border: 3px solid black;
 }
-
-
-
 
 @keyframes orbita {
     100% {
         transform: rotate(360deg);
     }
 }
+
+.orbita{
+    stroke: black;
+    stroke-width: 3;
+    fill: azure;
+}
+
 .particella {
     transform-origin: center;
 }
-.elettrone{
+.elettrone {
     stroke: black;
      stroke-width: 3;
       fill: blue;
