@@ -24,6 +24,10 @@ a {
 
 th {
     font-size: 10px;
+    opacity: 0,6;
+}
+th:hover{
+    opacity:1;
 }
 
 /* each class indicates a different kind of element each with his own style characteristics  */
