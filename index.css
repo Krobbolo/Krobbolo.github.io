@@ -5,7 +5,9 @@ table,tr,th{
 table{
     width: 60%;
 }
-
+table.lantha-actini{
+    background-color: slateblue;
+}
 sup{
     color:red;
 }
