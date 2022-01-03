@@ -22,6 +22,8 @@ a {
 th {
     font-size: 10px;
 }
+
+/* each class indicates a different kind of element each with his own style characteristics  */
 th.nonmetallo{
     background-color: yellow;
 }
@@ -47,5 +49,5 @@ th.halogen{
     background-color: darkorange;
 }
 th.radioactive{
-    border-color: yellow;
+    border-color: solid yellow;
 }

@@ -13,6 +13,7 @@ article {
     right: -440px;
 }
 
+/* atom's animation base*/
 @keyframes orbita {
     100% {
         transform: rotate(360deg);
@@ -25,6 +26,10 @@ article {
     fill: azure;
 }
 
+/* 
+    - applying the animation to the various parts
+    - defining style of the atom's parts
+*/
 .particella {
     transform-origin: center;
 }
