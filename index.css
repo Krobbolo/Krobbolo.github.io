@@ -38,6 +38,8 @@ th.alkalinoearth{
 }
 th.transitionmetal{
     background-color: royalblue;
+    position:relative;
+    z-index: -1;
 }
 th.basicmetal{
     background-color: aqua;
@@ -53,5 +55,7 @@ th.radioactive{
     border-right-style: solid;
     border-bottom-style: solid;
     border-left-style: solid;
-    border-color:yellow;
+    border-color:rgb(209, 209, 6);
+    position: relative;
+    z-index: 0;
 }
