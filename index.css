@@ -7,6 +7,7 @@ table{
 }
 table.lantha-actini{
     background-color: slateblue;
+    position : relative;
 }
 sup{
     color:darkred;
@@ -47,6 +48,9 @@ th.semimetal{
 }
 th.halogen{
     background-color: darkorange;
+}
+th.unkown{
+    background-color: gray;
 }
 th.radioactive{
     border-top-style: solid;
