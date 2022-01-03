@@ -26,6 +26,7 @@ th {
     font-size: 10px;
     opacity: 0,6;
 }
+/* making the cells brighten up while hoovering on them*/
 th:hover{
     opacity:1;
 }
