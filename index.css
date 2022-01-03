@@ -7,7 +7,9 @@ table{
 }
 table.lantha-actini{
     background-color: slateblue;
-    position : relative;
+    position: relative;
+    bottom: -20px;
+    left: 40px;
 }
 sup{
     color:darkred;
