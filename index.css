@@ -1,11 +1,12 @@
 table,tr,th{ 
-    border: 1px solid black;
     border-collapse:collapse;
+    border: 1px solid;
 }
 table{
-    width: 70%;
+    width: 95%;
 }
 table.lantha-actini{
+    
     background-color: slateblue;
     position : relative;
     bottom: -20px;
@@ -15,45 +16,55 @@ sup{
     color:darkred;
 }
 sub{
-    color:grey;
+    color:darkgrey;
     font-size: 8px;
 }
 a {
     color:black;
 }
 
+th {
+    font-size: 10px;
+
+}
+
 /* each class indicates a different kind of element each with his own style characteristics  */
 th.nonmetallo{
+    
     background-color: yellow;
 }
 th.gasnobile{
+    
     background-color: red;
 }
 th.alkalinometal{
+    
     background-color: palevioletred;
 }
 th.alkalinoearth{
+    
     background-color: rebeccapurple;
 }
 th.transitionmetal{
+    
     background-color: royalblue;
 }
 th.basicmetal{
+    
     background-color: aqua;
 }
 th.semimetal{
+    
     background-color: lightgreen;
 }
 th.halogen{
+    
     background-color: darkorange;
 }
 th.unkown{
+    
     background-color: gray;
 }
 th.radioactive{
-    border-top-style: solid;
-    border-right-style: solid;
-    border-bottom-style: solid;
-    border-left-style: solid;
     border-color:yellow;
 }
